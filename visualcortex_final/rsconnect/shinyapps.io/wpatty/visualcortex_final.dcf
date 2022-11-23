@@ -1,0 +1,13 @@
+name: visualcortex_final
+title: visualcortex_final
+username:
+account: wpatty
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 5567685
+bundleId: 5539945
+url: https://wpatty.shinyapps.io/visualcortex_final/
+when: 1643916328.84499
+lastSyncTime: 1643916328.84499
+asMultiple: FALSE
+asStatic: FALSE
